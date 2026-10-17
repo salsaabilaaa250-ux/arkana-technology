@@ -55,7 +55,7 @@ function Services() {
           </h1>
 
           <p className="mt-5 text-slate-300 max-w-3xl mx-auto leading-relaxed">
-            Kami menyediakan berbagai layanan teknologi, elektronika, dan
+            disini kami menyediakan berbagai layanan teknologi, elektronika, dan
             engineering untuk memenuhi kebutuhan pelanggan.
           </p>
 
