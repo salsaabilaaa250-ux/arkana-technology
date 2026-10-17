@@ -102,7 +102,7 @@ function About() {
             </p>
 
             <h2 className="mt-3 text-3xl md:text-4xl font-bold">
-              Visi & Misi
+              Visi & Misi Arkana Technology
             </h2>
 
           </div>
