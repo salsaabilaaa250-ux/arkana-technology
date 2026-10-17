@@ -89,7 +89,7 @@ function Contact() {
                 </h3>
 
                 <p className="mt-1 text-slate-400">
-                  Jl. Teknologi No. 10, Bandung,
+                  Jl. Cijerah No. 10, Bandung,
                   Jawa Barat, Indonesia
                 </p>
               </div>
