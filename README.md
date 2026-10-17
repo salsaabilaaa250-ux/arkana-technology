@@ -39,20 +39,20 @@ http://localhost:5173/
 
 ### Home
 
-![home](screenshot/home.png)
+![home](screenshoot/home.png)
 
 ### About
 
-![about](screenshot/about.png)
+![about](screenshoot/about.png)
 
 ### Services
 
-![services](screenshot/services.png)
+![services](screenshoot/services.png)
 
 ### Portofolio
 
-![portofolio](screenshot/portofolio.png)
+![portofolio](screenshoot/portofolio.png)
 
 ### Contact
 
-![contact](screenshot/contact.png)
+![contact](screenshoot/contact.png)
