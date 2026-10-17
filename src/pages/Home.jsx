@@ -33,7 +33,7 @@ function Home() {
                 href="#layanan"
                 className="bg-[#FF4A4A] text-white px-6 py-3 rounded-lg font-semibold text-center hover:bg-red-600 transition"
               >
-                Layanan Unngul Arkana Technology
+                Layanan Unggul Arkana Technology
               </a>
 
               <a

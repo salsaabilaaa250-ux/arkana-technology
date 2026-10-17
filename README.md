@@ -1,16 +1,58 @@
-# React + Vite
+# Arkana Technology
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Identitas
 
-Currently, two official plugins are available:
+- Nama: Salsabila
+- NIM: 2505598
+- Kelas: Pendidikan Ilmu Komputer 3C
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Deskripsi Website
 
-## React Compiler
+Arkana Technology merupakan website company profile yang bergerak di bidang teknologi, elektronika, dan engineering.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Website ini menyediakan informasi mengenai profil perusahaan, layanan yang tersedia, project dan pekerjaan yang telah dilakukan, serta informasi kontak perusahaan.
 
-## Expanding the ESLint configuration
+## Teknologi yang Digunakan
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+- React Router
+
+## Cara Menjalankan Project
+
+Clone atau download repository terlebih dahulu, kemudian buka folder project melalui terminal.
+
+Install seluruh package yang dibutuhkan dengan perintah:
+
+npm install
+
+Kemudian jalankan project dengan:
+
+npm run dev
+
+Setelah itu, buka alamat yang diberikan oleh Vite pada browser, biasanya:
+
+http://localhost:5173/
+
+## Screenshot
+
+### Home
+
+![Home](screenshots/home.png)
+
+### About
+
+![About](screenshots/about.png)
+
+### Services
+
+![Services](screenshots/services.png)
+
+### Portofolio
+
+![Portofolio](screenshots/portofolio.png)
+
+### Contact
+
+![Contact](screenshots/contact.png)

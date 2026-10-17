@@ -1,26 +1,26 @@
 const portofolios = [
   {
-    title: "Computer Maintenance",
+    title: "Computer Hardware Diagnostics",
     description:
       "Perawatan dan pemeriksaan komputer untuk menjaga perangkat tetap berjalan dengan baik.",
     image: "/P1 (1).jpeg",
   },
   {
-    title: "Computer Repair",
+    title: "CRT Monitor Repair",
     description:
-      "Perbaikan komputer dan laptop untuk mengatasi berbagai masalah hardware maupun software.",
+      "Pemeriksaan dan perbaikan monitor komputer tabung untuk mengidentifikasi kerusakan serta mengembalikan fungsi perangkat agar dapat digunakan kembali.",
     image: "/P1 (2).jpeg",
   },
   {
-    title: "Electronics Repair",
+    title: "Laptop Motherboard Repair",
     description:
-      "Pemeriksaan dan perbaikan perangkat elektronika serta penggantian komponen yang rusak.",
+      "Pemeriksaan komponen motherboard laptop untuk mengidentifikasi kerusakan dan menentukan langkah perbaikan pada perangkat keras.",
     image: "/P1 (3).jpeg",
   },
   {
-    title: "PCB Development",
+    title: "Industrial Machinery Repair",
     description:
-      "Perancangan dan pengembangan PCB sesuai kebutuhan perangkat elektronika.",
+      "Perbaikan dan penanganan mesin industri di lingkungan pabrik untuk mengatasi gangguan serta menjaga mesin agar dapat beroperasi dengan baik.",
     image: "/P1 (4).jpeg",
   },
   {
@@ -30,33 +30,27 @@ const portofolios = [
     image: "/P1 (5).jpeg",
   },
   {
-    title: "Preventive Maintenance",
+    title: "Industrial Control Panel Repair",
     description:
-      "Pemeriksaan berkala untuk mencegah kerusakan dan menjaga kondisi perangkat.",
+      "Pemeriksaan dan pemeliharaan instalasi serta komponen kelistrikan industri untuk membantu menjaga keamanan dan keandalan operasional peralatan pabrik.",
     image: "/P1 (6).jpeg",
   },
   {
-    title: "Computer Assembly",
+    title: "Computer Hardware Repair & BIOS Reinstallation",
     description:
-      "Perakitan komputer berdasarkan kebutuhan dan spesifikasi yang telah ditentukan.",
-    image: "/P1 (7).jpeg",
-  },
-  {
-    title: "Industrial Control Repair",
-    description:
-      "Perbaikan sistem kontrol industri untuk membantu menjaga proses kerja perangkat.",
+      "Proses pemeriksaan dan pembongkaran CPU untuk mengidentifikasi kerusakan perangkat keras serta melakukan instalasi ulang BIOS agar komputer dapat berfungsi kembali.",
     image: "/P1 (8).jpeg",
   },
   {
-    title: "Electronic Device Repair",
+    title: "Repair Inventory & Documentation",
     description:
-      "Perbaikan perangkat elektronik dengan melakukan pemeriksaan dan identifikasi kerusakan.",
+      "Kegiatan pencatatan dan pendataan barang serta perangkat yang masuk untuk diperbaiki guna memudahkan pemantauan status dan pengelolaan pekerjaan perbaikan.",
     image: "/P1 (9).jpeg",
   },
   {
-    title: "Technical Support",
+    title: "PCB Design & Development",
     description:
-      "Memberikan bantuan teknis, analisis masalah, dan rekomendasi solusi kepada pelanggan.",
+      "Proses perancangan desain Printed Circuit Board (PCB) berdasarkan skema dan ukuran yang ditentukan sebagai dasar pembuatan rangkaian elektronika.",
     image: "/P1 (10).jpeg",
   },
 ]
