@@ -31,7 +31,7 @@ Kemudian jalankan project dengan:
 
 npm run dev
 
-Setelah itu, buka alamat yang diberikan oleh Vite pada browser, biasanya:
+Setelah itu, buka alamat yang diberikan oleh Vite pada browser, contohnya:
 
 http://localhost:5173/
 
