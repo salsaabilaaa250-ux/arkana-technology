@@ -38,8 +38,7 @@ function Footer() {
           </h3>
 
           <div className="space-y-2 text-slate-300">
-            <p>Jl. Cijerah No. 10, Bandung,
-                  Jawa Barat, Indonesia</p>
+            <p>Jl. Teknologi No. 10, Bandung</p>
             <p>info@arkanatechnology.com</p>
             <p>+62 812-3456-7890</p>
             <p>Instagram: @arkanatechnology</p>
